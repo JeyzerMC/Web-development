@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Roboto-Regular; src: url('fonts/Roboto-Regular.ttf');
+}
+
+.navbar-inverse{
+   background-color: #0B1420;
+   border-color:#0B1420;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.jumbotron{
+    color: #0B1420;
+    font-family: Roboto-Regular;
+    padding: 2em;
+    margin: 70px auto;
+}

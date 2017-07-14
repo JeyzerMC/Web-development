@@ -29,5 +29,5 @@ movieDatabase.forEach(function (movie) {
     } else {
         var content = "You have not watched " + movie.title + " - " + movie.rating;
     }
-    $("ul").append("<li>" + content + "</li>");
+    $("ul").append("<li>" + content + "</li>"); 
 });

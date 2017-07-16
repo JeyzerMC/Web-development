@@ -1,0 +1,14 @@
+div {
+    margin: 20% auto;
+    height: 300px;
+    width: 300px;
+}
+
+button {
+    height: 100px;
+    width: 200px;
+}
+
+.purple{
+    background: purple;
+}
